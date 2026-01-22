@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Insung-Jo/Insung-Jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
